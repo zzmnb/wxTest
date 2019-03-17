@@ -4,12 +4,14 @@
     "pages/logs/logs",
     "pages/table/table",
     "pages/lists/lists",
-    "pages/orders/orders"
+    "pages/orders/orders",
+    "pages/Login/login",
+    "pages/Tools/tools"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "数字旅者",
     "navigationBarTextStyle": "black"
   }
 }
