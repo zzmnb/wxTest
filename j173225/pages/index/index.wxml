@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="tr">
+<image src="../../images/appindex.jpg" 
+style="width: 500px;" mode ="widthFix"></image>
+</view>
