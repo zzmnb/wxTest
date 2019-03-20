@@ -1,0 +1,16 @@
+<!--index.wxml-->
+<view class="back">
+  <image src="../../images/appindex.jpg" style="width: 100%;" mode="widthFix"></image>
+
+<view>
+<navigator class='buttonLeft' url='../index/index'>
+</navigator>
+</view>
+<view>
+<navigator class='buttonMid' url='../Tools/tools'>
+</navigator>
+</view>
+<view>
+<navigator class='buttonRight' url='../Login/login'>
+</navigator>
+</view></view>
