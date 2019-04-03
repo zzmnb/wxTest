@@ -13,5 +13,6 @@
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "数字旅者",
     "navigationBarTextStyle": "black"
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }
